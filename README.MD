@@ -4,4 +4,4 @@ There are several contraints implemented in the model, such as technician total 
 
 By implementing this optimized solution to San Diego's market, we're seeing an opportunity to improve closed orders per technician per day by 50%, lower gas costs by approximately $7,000, and these can be achieved with 25% few technicians. 
 
-To run the script, you would need to request a Gurobi license either as commercial use or academic user. 
+To run the script, you need to request a Gurobi license either as commercial use or academic user. 
